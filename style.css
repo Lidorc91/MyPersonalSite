@@ -1,0 +1,45 @@
+.background{
+    background-size: cover;
+    background-repeat: no-repeat;    
+    height: 200;   
+}
+
+.hero{
+    background-image: url(./assets/images/river.jpg);     
+}
+
+.about{
+    background-image: url(./assets/images/about.jpg);
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+.aboutbox{
+    background-color: #000;
+    color: #fff;
+    opacity: .8;
+    border-radius: 2%;
+
+}
+
+.contactbox{
+    background-color: #000;
+    opacity: .8;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+}
+
+p{
+    color: white;
+}
+
+/* .lead{
+    color: white;
+}
+
+article > *{
+    color: white;
+} */
+
